@@ -1,6 +1,6 @@
 # **Welcome to the Machine Learning Course Repository!**
 
-This repository is designed to serve as a comprehensive resource for individuals interested in learning about machine learning (ML). Whether you're a beginner or an experienced practitioner, this course aims to provide you with the knowledge and tools necessary to understand and apply ML techniques effectively.
+This repository is designed to serve as a comprehensive resource for individuals interested in learning about machine learning (ML). Whether you're a beginner or an experienced practitioner, this course aims to provide you with the knowledge and tools necessary to understand and apply ML techniques effectively. 
 
 ### Course Overview:
 - **Introduction to Machine Learning:** Explore the fundamentals of ML, including its definition, types, and applications.
