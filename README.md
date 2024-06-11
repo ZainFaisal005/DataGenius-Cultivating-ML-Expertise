@@ -8,15 +8,11 @@ Welcome! This repository is your go-to resource for mastering machine learning (
 - **Supervised Learning:** Regression, classification, and more.
 - **Unsupervised Learning:** Clustering and dimensionality reduction.
 - **Model Evaluation:** Metrics and cross-validation.
-- **Deep Learning:** Neural networks and frameworks like TensorFlow.
-- **Advanced Topics:** Ensemble methods, reinforcement learning, deployment.
 
 ### Structure:
-- **Lecture Notes:** Detailed explanations.
 - **Code Examples:** Python scripts and Jupyter notebooks.
 - **Datasets:** Training and testing data.
 - **Projects:** Hands-on exercises.
-- **Additional Resources:** Books, papers, courses, and blogs.
 
 ### How to Use:
 1. Clone the repo.
