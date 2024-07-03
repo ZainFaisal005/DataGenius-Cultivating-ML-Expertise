@@ -1,0 +1,201 @@
+Brand,Capacity (BTUs),EER/SEER,Type,Features,Location,Age (years),Price ($)
+Brand A,18000,14.6,Portable,Quiet,India,3,239
+Brand C,8000,12.3,Portable,WiFi,USA,4,348
+Brand B,15000,12.4,Window,WiFi,Europe,4,325
+Brand C,18000,15.6,Split,Standard,Australia,4,480
+Brand C,12000,17.5,Portable,"Inverter Technology, WiFi",Australia,2,881
+Brand C,8000,12.4,Split,Compact,Europe,2,678
+Brand A,18000,19.1,Split,"Compact, Inverter Technology",India,4,593
+Brand A,12000,17.6,Portable,Standard,Australia,3,529
+Brand A,12000,16.6,Split,Standard,India,3,579
+Brand C,12000,14.8,Portable,"WiFi, Standard",USA,2,282
+Brand A,8000,20.0,Split,"Compact, WiFi",Europe,2,949
+Brand B,15000,18.7,Portable,Quiet,USA,2,892
+Brand C,18000,19.0,Portable,"Compact, WiFi",Europe,3,268
+Brand B,18000,15.2,Split,Standard,USA,2,946
+Brand C,8000,19.5,Split,WiFi,USA,1,288
+Brand B,12000,15.3,Window,Standard,USA,1,788
+Brand B,8000,19.6,Portable,Compact,Australia,3,893
+Brand A,8000,15.5,Split,"Inverter Technology, Compact",India,3,619
+Brand A,10000,18.4,Window,Inverter Technology,Europe,3,877
+Brand B,15000,16.8,Portable,WiFi,USA,1,600
+Brand C,15000,19.0,Portable,Quiet,India,2,911
+Brand A,15000,18.3,Portable,Compact,India,3,403
+Brand B,12000,16.6,Window,"Quiet, WiFi",India,2,651
+Brand C,10000,17.7,Portable,"Quiet, WiFi",USA,2,662
+Brand C,10000,17.8,Split,"WiFi, WiFi",USA,1,743
+Brand C,15000,14.4,Split,"Standard, Inverter Technology",India,2,802
+Brand B,18000,18.5,Portable,"Compact, Inverter Technology",USA,4,391
+Brand C,12000,16.4,Portable,"Compact, Inverter Technology",Australia,2,873
+Brand B,10000,19.0,Split,WiFi,India,2,521
+Brand A,15000,14.2,Split,"Quiet, Inverter Technology",Australia,1,294
+Brand B,12000,12.7,Portable,Quiet,Europe,3,321
+Brand A,10000,12.0,Portable,"Inverter Technology, WiFi",Europe,4,915
+Brand B,10000,12.1,Portable,WiFi,Australia,1,488
+Brand B,10000,14.0,Portable,"Quiet, Compact",USA,3,627
+Brand C,15000,19.7,Split,"Inverter Technology, Standard",India,4,751
+Brand B,15000,19.6,Window,Standard,India,2,997
+Brand B,15000,15.0,Window,"Quiet, Compact",Europe,1,230
+Brand C,10000,14.2,Portable,Inverter Technology,USA,4,384
+Brand A,18000,14.5,Window,"WiFi, WiFi",India,1,577
+Brand B,8000,18.3,Split,Quiet,USA,2,590
+Brand B,8000,13.7,Split,"Standard, Quiet",India,1,474
+Brand B,10000,13.5,Portable,WiFi,Europe,4,728
+Brand C,10000,15.5,Split,"Standard, WiFi",USA,3,939
+Brand A,8000,13.1,Portable,Quiet,Australia,2,294
+Brand A,10000,17.5,Portable,WiFi,USA,1,649
+Brand C,12000,15.1,Window,Standard,Australia,4,437
+Brand C,10000,17.0,Window,"WiFi, Standard",Australia,4,964
+Brand B,15000,13.7,Split,Quiet,India,2,885
+Brand A,12000,16.4,Portable,Standard,Australia,1,241
+Brand B,12000,12.7,Split,Quiet,Europe,1,619
+Brand B,18000,19.7,Split,"Inverter Technology, Standard",Europe,3,429
+Brand B,8000,13.5,Portable,Standard,USA,2,516
+Brand A,12000,12.5,Window,Compact,Australia,4,982
+Brand A,12000,16.4,Window,"Quiet, Quiet",Europe,1,332
+Brand B,18000,15.5,Portable,"Inverter Technology, Inverter Technology",Europe,2,276
+Brand A,10000,13.5,Portable,Standard,Europe,4,471
+Brand C,15000,16.0,Split,"WiFi, Inverter Technology",USA,1,237
+Brand C,10000,13.4,Portable,"Compact, Compact",USA,4,554
+Brand A,10000,16.4,Window,WiFi,Australia,1,929
+Brand A,8000,17.7,Portable,"Compact, WiFi",Europe,4,976
+Brand A,10000,14.8,Window,"Inverter Technology, Compact",Europe,3,406
+Brand B,8000,15.9,Window,Inverter Technology,India,2,261
+Brand C,10000,13.1,Split,"Compact, WiFi",USA,1,499
+Brand A,8000,19.5,Split,"WiFi, Quiet",Australia,3,870
+Brand A,10000,18.8,Split,WiFi,India,4,702
+Brand C,15000,16.7,Window,Standard,India,1,829
+Brand B,15000,18.0,Split,Quiet,Europe,4,913
+Brand B,12000,13.0,Window,"WiFi, Inverter Technology",India,1,720
+Brand B,12000,14.9,Split,"Standard, WiFi",USA,2,910
+Brand A,10000,12.4,Split,Inverter Technology,India,1,804
+Brand B,18000,16.9,Portable,Compact,India,1,592
+Brand C,10000,14.3,Window,"Standard, WiFi",India,1,557
+Brand B,8000,13.1,Split,Quiet,USA,3,702
+Brand B,18000,18.4,Window,Standard,Australia,1,821
+Brand A,8000,15.6,Window,"Quiet, Compact",Europe,2,703
+Brand B,18000,12.4,Portable,"WiFi, Standard",Europe,2,424
+Brand C,10000,12.7,Portable,Quiet,USA,2,332
+Brand C,18000,20.0,Split,Quiet,Europe,1,279
+Brand A,12000,18.2,Portable,WiFi,Australia,2,508
+Brand C,8000,19.1,Window,Quiet,India,3,260
+Brand A,15000,12.8,Portable,Quiet,USA,1,879
+Brand A,18000,12.9,Window,"Quiet, WiFi",India,4,801
+Brand A,10000,17.8,Window,WiFi,Europe,1,958
+Brand B,8000,12.3,Window,"Quiet, WiFi",India,2,514
+Brand B,10000,15.1,Portable,Quiet,Europe,1,888
+Brand B,18000,15.4,Split,WiFi,Australia,4,571
+Brand B,12000,16.4,Split,"Inverter Technology, Inverter Technology",India,1,292
+Brand A,12000,13.5,Window,"Quiet, Quiet",Australia,2,587
+Brand A,8000,15.6,Window,"WiFi, WiFi",India,2,754
+Brand B,15000,17.9,Portable,"Standard, Inverter Technology",Australia,2,537
+Brand C,18000,19.6,Window,"WiFi, Standard",India,2,326
+Brand C,8000,16.2,Portable,"Standard, Standard",Australia,3,721
+Brand A,8000,17.3,Window,"Compact, Quiet",India,4,443
+Brand A,18000,12.8,Window,Quiet,India,2,824
+Brand A,10000,12.8,Split,WiFi,Europe,1,916
+Brand C,12000,18.5,Window,"Standard, Inverter Technology",Australia,4,245
+Brand B,10000,17.3,Window,Compact,USA,3,774
+Brand C,8000,19.7,Portable,Inverter Technology,USA,1,437
+Brand C,12000,18.0,Window,"Compact, Quiet",India,1,628
+Brand A,10000,15.5,Split,"Standard, WiFi",India,4,455
+Brand B,8000,12.3,Window,"Compact, Standard",Europe,1,443
+Brand A,8000,13.4,Portable,"Inverter Technology, Compact",Europe,3,881
+Brand B,15000,18.0,Split,"Quiet, Standard",USA,3,458
+Brand B,8000,15.7,Split,"Standard, Compact",USA,3,826
+Brand C,10000,16.6,Portable,"Compact, Quiet",USA,3,998
+Brand A,10000,15.8,Window,"Inverter Technology, Quiet",India,1,841
+Brand A,8000,18.7,Portable,WiFi,Australia,3,708
+Brand A,8000,19.1,Split,Standard,Europe,1,342
+Brand A,18000,19.7,Split,"Inverter Technology, Standard",Europe,2,780
+Brand B,10000,13.9,Window,Inverter Technology,Australia,1,611
+Brand B,18000,19.1,Window,Standard,Australia,4,875
+Brand B,12000,19.3,Portable,WiFi,Australia,2,504
+Brand A,18000,15.4,Portable,Quiet,USA,2,251
+Brand C,8000,16.4,Split,"Inverter Technology, WiFi",India,3,627
+Brand B,10000,15.0,Portable,"Compact, Compact",USA,2,886
+Brand B,10000,17.5,Window,"Standard, Quiet",Europe,1,445
+Brand C,12000,13.9,Portable,Quiet,India,4,341
+Brand B,8000,13.3,Window,Standard,Australia,1,940
+Brand C,12000,17.5,Window,"Standard, Compact",India,3,557
+Brand A,18000,18.2,Portable,Compact,India,1,454
+Brand A,10000,17.5,Split,"Inverter Technology, Compact",Europe,3,968
+Brand B,8000,17.0,Portable,WiFi,Australia,3,369
+Brand C,12000,13.0,Split,"Standard, Inverter Technology",India,2,489
+Brand C,12000,12.6,Portable,WiFi,India,4,941
+Brand C,10000,17.8,Split,"Quiet, Inverter Technology",India,3,777
+Brand C,15000,18.8,Portable,Inverter Technology,Australia,4,514
+Brand A,12000,14.9,Window,WiFi,India,1,203
+Brand C,15000,17.5,Window,"Standard, WiFi",Europe,1,586
+Brand A,8000,15.5,Split,Quiet,Australia,3,807
+Brand C,10000,19.9,Portable,WiFi,USA,2,605
+Brand A,10000,19.7,Window,"Standard, Standard",Europe,3,953
+Brand C,10000,15.0,Portable,"Quiet, Compact",Australia,1,375
+Brand C,15000,18.2,Window,"Quiet, WiFi",USA,1,519
+Brand A,10000,14.2,Window,Standard,Australia,2,946
+Brand C,15000,19.9,Portable,WiFi,USA,3,522
+Brand C,12000,13.5,Portable,"WiFi, Compact",USA,4,804
+Brand A,18000,18.2,Portable,Inverter Technology,USA,2,681
+Brand A,15000,17.0,Split,Quiet,India,3,929
+Brand C,18000,19.7,Split,"Standard, Inverter Technology",India,4,450
+Brand A,18000,18.4,Split,"Standard, Inverter Technology",USA,2,651
+Brand C,12000,12.2,Portable,WiFi,India,2,553
+Brand C,10000,15.3,Window,"Quiet, Inverter Technology",Europe,1,316
+Brand C,8000,16.6,Window,WiFi,Europe,3,725
+Brand A,15000,13.4,Window,"WiFi, Standard",India,1,341
+Brand A,18000,17.4,Window,Compact,Australia,2,513
+Brand A,10000,12.7,Split,"Quiet, Inverter Technology",Europe,2,437
+Brand A,12000,16.8,Window,Quiet,USA,1,485
+Brand C,8000,17.8,Split,"Compact, WiFi",Australia,4,415
+Brand B,12000,17.7,Portable,Standard,Europe,1,606
+Brand A,15000,16.1,Split,WiFi,USA,1,551
+Brand A,10000,13.3,Window,Inverter Technology,USA,1,659
+Brand A,15000,15.0,Window,Inverter Technology,India,4,318
+Brand B,15000,14.6,Split,Inverter Technology,India,1,778
+Brand A,18000,13.9,Split,"Standard, Compact",Australia,4,758
+Brand B,8000,17.6,Window,"Inverter Technology, WiFi",Australia,4,711
+Brand A,12000,16.7,Window,Inverter Technology,India,2,686
+Brand B,18000,15.4,Window,"Compact, Inverter Technology",Australia,4,642
+Brand C,12000,18.2,Portable,"Inverter Technology, Inverter Technology",USA,4,772
+Brand B,8000,16.4,Split,"Standard, Inverter Technology",India,4,418
+Brand C,12000,18.7,Portable,Quiet,Europe,3,488
+Brand A,18000,13.6,Portable,"Inverter Technology, WiFi",India,1,496
+Brand A,18000,14.2,Portable,"Compact, Inverter Technology",Australia,1,905
+Brand C,12000,12.7,Window,"Compact, WiFi",USA,3,902
+Brand C,8000,17.9,Split,Standard,Australia,1,494
+Brand C,8000,17.6,Window,WiFi,India,4,659
+Brand A,10000,17.8,Portable,"WiFi, Quiet",India,1,599
+Brand B,12000,16.5,Split,Quiet,India,4,381
+Brand C,15000,13.4,Portable,"Compact, Standard",Europe,3,926
+Brand A,15000,13.6,Window,"Quiet, WiFi",India,4,669
+Brand B,8000,12.4,Window,"Inverter Technology, WiFi",Europe,1,848
+Brand C,10000,13.7,Split,"WiFi, Inverter Technology",USA,2,267
+Brand B,12000,20.0,Portable,WiFi,India,2,470
+Brand A,10000,13.5,Portable,Inverter Technology,USA,2,847
+Brand C,10000,12.8,Portable,"Quiet, WiFi",USA,4,555
+Brand B,12000,12.5,Portable,"Standard, Quiet",USA,2,712
+Brand B,18000,19.9,Split,Compact,Europe,2,369
+Brand B,8000,18.6,Window,"Inverter Technology, Inverter Technology",Australia,2,462
+Brand A,8000,18.0,Split,Compact,USA,3,444
+Brand A,18000,16.3,Split,"Compact, WiFi",Australia,2,244
+Brand B,15000,17.8,Portable,Compact,Australia,2,404
+Brand A,10000,16.4,Window,Compact,USA,4,332
+Brand C,15000,17.8,Split,WiFi,USA,2,645
+Brand B,18000,20.0,Window,"Standard, Inverter Technology",USA,1,434
+Brand C,15000,18.5,Window,Quiet,India,3,539
+Brand A,15000,19.8,Window,Compact,India,4,603
+Brand C,18000,13.6,Portable,Quiet,USA,4,357
+Brand A,15000,19.6,Portable,"Quiet, Inverter Technology",Australia,1,679
+Brand C,18000,16.2,Split,"Standard, Inverter Technology",Australia,4,342
+Brand C,15000,18.4,Split,"Quiet, Inverter Technology",India,3,904
+Brand A,15000,16.7,Split,"Inverter Technology, WiFi",Europe,4,469
+Brand C,12000,17.6,Portable,"Compact, WiFi",Australia,1,844
+Brand A,18000,14.2,Split,"Quiet, WiFi",USA,3,313
+Brand C,12000,13.3,Portable,"Compact, WiFi",USA,1,436
+Brand C,18000,12.8,Portable,"Inverter Technology, Compact",USA,1,903
+Brand C,12000,17.3,Split,"Inverter Technology, Quiet",India,4,392
+Brand B,8000,19.7,Portable,"WiFi, Inverter Technology",Australia,2,975
+Brand B,8000,14.4,Portable,Compact,Australia,3,276
+Brand C,8000,14.9,Window,"WiFi, Inverter Technology",Australia,2,762
+Brand A,10000,19.3,Window,"Standard, WiFi",Australia,2,723
+Brand B,12000,13.4,Split,Compact,Australia,1,601
